@@ -13,5 +13,5 @@ https://www.themoviedb.org/documentation/api
 
                                                Screenshots
                                                
- <img src="m.jpg">
- <img src="m2.jpg">
+ <img src="m3.jpg">
+ <img src="m4.jpg">

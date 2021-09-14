@@ -4,7 +4,7 @@ Using this project user can search for movies and get details about the movies. 
 This project build using the movie database API ,javascript, HTML and CSS.
 
 Live demo of this project
-https://pulasthi-nanayakkara.github.io/MovieApp/
+https://pulasthi-narada.github.io/MovieApp/
 
                                                reference
 10 JavaScript Projects in 10 Hours - Coding Challenge
